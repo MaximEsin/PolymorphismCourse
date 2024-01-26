@@ -9,3 +9,4 @@
 - 5 Polymorphism
 - 6 Null object
 - 7 Breaking polymorphism
+- 8 Dependency inversion
