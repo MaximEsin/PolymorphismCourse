@@ -6,3 +6,4 @@
 - 2 Dispatch data by key
 - 3 Dispatch functions by key
 - 4 Dispatch by file
+- 5 Polymorphism
