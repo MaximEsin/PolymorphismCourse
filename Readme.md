@@ -12,3 +12,5 @@
 - 8 Dependency inversion
 - 9 Strategy
 - 10 Factory
+- 11 Patterns
+- 12 Composition
