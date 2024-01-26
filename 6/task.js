@@ -11,7 +11,6 @@ class User {
   }
 
   isAdmin() {
-    // Пример условия для проверки, что пользователь - администратор
     return this.email === 'rakhim@hexlet.io';
   }
 }

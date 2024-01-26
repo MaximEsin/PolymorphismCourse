@@ -8,3 +8,4 @@
 - 4 Dispatch by file
 - 5 Polymorphism
 - 6 Null object
+- 7 Breaking polymorphism
