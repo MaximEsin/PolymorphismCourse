@@ -7,3 +7,4 @@
 - 3 Dispatch functions by key
 - 4 Dispatch by file
 - 5 Polymorphism
+- 6 Null object
