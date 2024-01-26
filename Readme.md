@@ -11,3 +11,4 @@
 - 7 Breaking polymorphism
 - 8 Dependency inversion
 - 9 Strategy
+- 10 Factory
